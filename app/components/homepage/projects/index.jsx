@@ -1,3 +1,7 @@
+// app/page.js
+"use client";
+
+
 import { projectsData } from '@/utils/data/projects-data';
 import ProjectCard from './project-card';
 

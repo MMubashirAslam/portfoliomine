@@ -1,3 +1,7 @@
+// app/page.js
+"use client";
+
+
 // @flow strict
 
 import { skillsData } from "@/utils/data/skills";

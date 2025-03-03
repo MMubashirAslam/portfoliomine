@@ -1,3 +1,6 @@
+// app/page.js
+"use client";
+
 // @flow strict
 import Link from "next/link";
 
